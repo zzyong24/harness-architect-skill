@@ -1,0 +1,23 @@
+id: harness-architect
+name: Harness 架构师
+description: 系统论驱动的 AI Harness 架构规划师——评估 Idea、设计 Agent 编排、生成可直接执行的 Prompt 包
+icon: "🏗️"
+category: knowledge
+tools: []
+prompts:
+  - name: harness-workflow
+    path: SKILL.md
+triggers:
+  - harness
+  - harness-architect
+  - 系统设计
+  - agent编排
+  - 驾驭工程
+  - AI架构
+  - 帮我设计一个AI系统
+  - 怎么编排Agent
+  - 用系统论分析
+  - 评估一下这个idea
+  - 评估这个想法
+  - 帮我分析这个产品
+dependencies: []
